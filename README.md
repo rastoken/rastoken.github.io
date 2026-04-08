@@ -140,8 +140,8 @@ This website is part of the RasToken project. All rights reserved.
 ## Support
 
 For issues or suggestions, please contact:
-- Email: contact@rastoken.io
-- Website: rastoken.io
+- Email: tokenras@gmail.com
+- Website: [rastoken.io](https://rastoken.github.io/)
 
 ---
 
