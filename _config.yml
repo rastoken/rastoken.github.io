@@ -1,0 +1,22 @@
+site_name: RasToken
+theme: null
+plugins:
+  - search
+
+nav:
+  - Home: index.html
+  - About: "#about"
+  - Features: "#features"
+  - Why Different: "#why-different"
+  - Ecosystem: "#ecosystem"
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rastoken
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/TokenRas
